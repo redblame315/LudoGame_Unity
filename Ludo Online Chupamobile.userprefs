@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Ludo Masters\Scripts\PaymentPanel.cs">
+    <Files>
+      <File FileName="Assets\Ludo Masters\Scripts\Game\StaticStrings.cs" Line="1" Column="1" />
+      <File FileName="Assets\Ludo Masters\Scripts\PlayFabManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Ludo Masters\Scripts\SendRecData.cs" Line="1" Column="1" />
+      <File FileName="Assets\Ludo Masters\Scripts\UpdatePlayerTimer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Ludo Masters\Scripts\GameGUIController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Ludo Masters\Scripts\PaymentHistory.cs" Line="5" Column="1" />
+      <File FileName="Assets\Ludo Masters\Scripts\DynamicText.cs" Line="1" Column="1" />
+      <File FileName="Assets\Ludo Masters\Scripts\PaymentPanel.cs" Line="76" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

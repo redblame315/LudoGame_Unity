@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "984544764973",
+    "firebase_url": "https://ludomaster-3c1f9.firebaseio.com",
+    "project_id": "ludomaster-3c1f9",
+    "storage_bucket": "ludomaster-3c1f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984544764973:android:1b2ef0d0b75ca8f9",
+        "android_client_info": {
+          "package_name": "com.ludo.masters"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984544764973-s2dojg1t9l46bp2mli8f8tn08mi6a5kh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbGz6ZBeG2aRwwySvSfB_N7mlgxM-HdoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984544764973-s2dojg1t9l46bp2mli8f8tn08mi6a5kh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

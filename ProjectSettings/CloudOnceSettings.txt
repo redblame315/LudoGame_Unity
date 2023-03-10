@@ -1,0 +1,14 @@
+{
+	"AchievementIDs":[],
+	"LeaderboardIDs":[],
+	"CloudVariables":[],
+	"AppleSupported":true,
+	"GoogleSupported":true,
+	"AmazonSupported":false,
+	"AndroidPlatform":"1",
+	"GoogleAppID":"123456789022",
+	"GoogleSetupRun":true,
+	"DebugModeEnabled":false,
+	"Version":"2.4.1",
+	"APIKey":""
+}
